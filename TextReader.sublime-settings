@@ -2,5 +2,6 @@
 	"font_size": 14,
 	"font_face": "Microsoft Yahei",
 	"line_numbers": false,
-	"gutter": false
+	"gutter": false,
+	"not_use_reader":[]
 }
